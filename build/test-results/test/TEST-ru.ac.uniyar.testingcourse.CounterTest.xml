@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ru.ac.uniyar.testingcourse.CounterTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2023-04-05T13:51:16" hostname="PC216-11" time="0.046">
+  <properties/>
+  <testcase name="testReset()" classname="ru.ac.uniyar.testingcourse.CounterTest" time="0.044"/>
+  <testcase name="testConstructor()" classname="ru.ac.uniyar.testingcourse.CounterTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
